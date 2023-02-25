@@ -1,0 +1,27 @@
+tr, td{
+    font-size: 30px;
+    border: 2px solid #CDBE70;
+}
+table, tr, th{
+    border-spacing: initial;
+}
+#bang1{
+    border-color: #FFEC8B; 
+}
+#ba{
+    text-align: center;
+}
+#sau{
+    background-color: #ffdd00;
+}
+.mot2{
+    padding-bottom: 15px;
+}
+.bonnam78{
+    background-color: orange;
+    padding-bottom: 15px;
+}
+.chin10{
+    background-color: #ffdd00;
+    padding-bottom: 15px;
+}

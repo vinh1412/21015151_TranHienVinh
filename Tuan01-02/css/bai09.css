@@ -1,0 +1,13 @@
+table{
+    text-align: center;
+    border: 3px solid orange;
+    border-spacing: inherit;
+    display: inline-block;
+}
+th{
+    background-color: aqua;
+    border-color: orange
+}
+td{
+    background-color:rgba(249, 253, 22, 0.623);
+}
