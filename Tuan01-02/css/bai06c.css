@@ -1,6 +1,6 @@
-table{
+.bai6_3{
     text-align: center;
-    border: 4px solid #ff00ff;
+    margin-right: 50%;
 }
 #otrong{
     background-color:  #FFBBFF;
@@ -9,11 +9,11 @@ table{
     background-color: #63B8FF;
     color: black;
 }
-th{
+.bai6_3 th{
     background-color: #FF00FF;
     text-decoration-line: underline;
 }
-td{
+.bai6_3 td{
     background-color:  #FFBBFF;
     color: #1E90FF;
     font-weight: 600;
